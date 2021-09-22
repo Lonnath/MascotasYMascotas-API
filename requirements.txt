@@ -3,3 +3,4 @@ dj-database-url
 Django
 sqlparse
 mysqlclient
+django-environ
