@@ -26,3 +26,4 @@ Para la instalación de todas las librerias se recomienda el uso del comando **p
 - Django
 - sqlparse
 - mysqlclient
+- django-environ
